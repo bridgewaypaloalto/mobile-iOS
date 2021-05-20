@@ -1,0 +1,144 @@
+
+/* Class = "UILabel"; text = "기도"; ObjectID = "0gw-86-dln"; */
+"0gw-86-dln.text" = "기도";
+
+/* Class = "UILabel"; text = "음식"; ObjectID = "1Sm-9R-V33"; */
+"1Sm-9R-V33.text" = "음식";
+
+/* Class = "UINavigationItem"; title = "주일 당번 순서"; ObjectID = "3TC-hJ-6WN"; */
+"3TC-hJ-6WN.title" = "주일 당번 순서";
+
+/* Class = "UITextField"; text = "Loading..."; ObjectID = "4LC-Co-jPi"; */
+"4LC-Co-jPi.text" = "Loading...";
+
+/* Class = "UILabel"; text = "광고내용"; ObjectID = "4tZ-MH-KqR"; */
+"4tZ-MH-KqR.text" = "광고내용";
+
+/* Class = "UINavigationItem"; title = "주일 설교 리뷰"; ObjectID = "5Ai-ZA-VYH"; */
+"5Ai-ZA-VYH.title" = "주일 설교 리뷰";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "5wT-Mw-5fz"; */
+"5wT-Mw-5fz.title" = "Item";
+
+/* Class = "UITextView"; text = "Download"; ObjectID = "61a-Cg-yqu"; */
+"61a-Cg-yqu.text" = "Download";
+
+/* Class = "UINavigationItem"; title = "주일 광고"; ObjectID = "8Ca-lu-tqb"; */
+"8Ca-lu-tqb.title" = "주일 광고";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "8Rb-WR-eMC"; */
+"8Rb-WR-eMC.text" = "Date";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "Af2-pS-it6"; */
+"Af2-pS-it6.title" = "Close";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "C2b-Wx-ewx"; */
+"C2b-Wx-ewx.text" = "Date";
+
+/* Class = "UILabel"; text = "Prayer"; ObjectID = "CUI-tb-Fan"; */
+"CUI-tb-Fan.text" = "Prayer";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "DAT-44-Rgi"; */
+"DAT-44-Rgi.text" = "Date";
+
+/* Class = "UITextField"; text = "Loading..."; ObjectID = "KeS-l5-uC2"; */
+"KeS-l5-uC2.text" = "Loading...";
+
+/* Class = "UILabel"; text = "화요기도회"; ObjectID = "PbP-z0-3Nz"; */
+"PbP-z0-3Nz.text" = "화요기도회";
+
+/* Class = "UINavigationItem"; title = "주일예배 설교본문"; ObjectID = "R3i-NR-YG5"; */
+"R3i-NR-YG5.title" = "주일예배 설교본문";
+
+/* Class = "UITextView"; text = "Bible Text"; ObjectID = "RMB-Op-hRE"; */
+"RMB-Op-hRE.text" = "Bible Text";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "ViA-qM-Ap3"; */
+"ViA-qM-Ap3.text" = "Date";
+
+/* Class = "UILabel"; text = "Prayer"; ObjectID = "WUc-Da-bHu"; */
+"WUc-Da-bHu.text" = "Prayer";
+
+/* Class = "UITextView"; text = "https://bcsv.org"; ObjectID = "Y4Q-6H-1b6"; */
+"Y4Q-6H-1b6.text" = "https://bcsv.org";
+
+/* Class = "UILabel"; text = "설교"; ObjectID = "YhH-z3-axs"; */
+"YhH-z3-axs.text" = "설교";
+
+/* Class = "UITextView"; text = "광고내용"; ObjectID = "akd-Kj-XeO"; */
+"akd-Kj-XeO.text" = "광고내용";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "aqt-fM-mlv"; */
+"aqt-fM-mlv.title" = "Close";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bGC-lW-Ijl"; */
+"bGC-lW-Ijl.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "bLX-4Z-myg"; */
+"bLX-4Z-myg.title" = "Close";
+
+/* Class = "UILabel"; text = "Version"; ObjectID = "bM7-5w-Jab"; */
+"bM7-5w-Jab.text" = "Version";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "bjJ-KU-D14"; */
+"bjJ-KU-D14.title" = "Close";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "cn6-f4-r29"; */
+"cn6-f4-r29.text" = "Title";
+
+/* Class = "UIViewController"; title = "VC_Sermon"; ObjectID = "cuw-OZ-ff1"; */
+"cuw-OZ-ff1.title" = "VC_Sermon";
+
+/* Class = "UILabel"; text = "Bridgeway Church"; ObjectID = "dQT-jT-bFt"; */
+"dQT-jT-bFt.text" = "Bridgeway Church";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "fdo-16-XUi"; */
+"fdo-16-XUi.text" = "Date";
+
+/* Class = "UILabel"; text = "설교자"; ObjectID = "fnA-wX-Qp2"; */
+"fnA-wX-Qp2.text" = "설교자";
+
+/* Class = "UILabel"; text = "Babysitter"; ObjectID = "ftR-af-stJ"; */
+"ftR-af-stJ.text" = "Babysitter";
+
+/* Class = "UILabel"; text = "헌금"; ObjectID = "fvT-r7-Gia"; */
+"fvT-r7-Gia.text" = "헌금";
+
+/* Class = "UILabel"; text = "화요기도회"; ObjectID = "fz3-ck-rNQ"; */
+"fz3-ck-rNQ.text" = "화요기도회";
+
+/* Class = "UILabel"; text = "Copyright © 2020"; ObjectID = "g3c-5c-IYO"; */
+"g3c-5c-IYO.text" = "Copyright © 2020";
+
+/* Class = "UILabel"; text = "조이코너"; ObjectID = "gva-vp-QCW"; */
+"gva-vp-QCW.text" = "조이코너";
+
+/* Class = "UINavigationItem"; title = "Content"; ObjectID = "j3k-6d-vFY"; */
+"j3k-6d-vFY.title" = "Content";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "jvf-QC-h6r"; */
+"jvf-QC-h6r.text" = "Title";
+
+/* Class = "UILabel"; text = "브릿지웨이 침례교회"; ObjectID = "lSg-f7-UYg"; */
+"lSg-f7-UYg.text" = "브릿지웨이 침례교회";
+
+/* Class = "UILabel"; text = "Joycorner"; ObjectID = "meh-7W-sr0"; */
+"meh-7W-sr0.text" = "Joycorner";
+
+/* Class = "UITextView"; text = "Download"; ObjectID = "obh-mf-2By"; */
+"obh-mf-2By.text" = "Download";
+
+/* Class = "UILabel"; text = "Food"; ObjectID = "pvI-J6-DpR"; */
+"pvI-J6-DpR.text" = "Food";
+
+/* Class = "UILabel"; text = "2490 Middlefield Rd. Palo Alto, CA 94301"; ObjectID = "qgb-Cy-1mn"; */
+"qgb-Cy-1mn.text" = "2490 Middlefield Rd. Palo Alto, CA 94301";
+
+/* Class = "UILabel"; text = "$1.0"; ObjectID = "rA8-De-y0y"; */
+"rA8-De-y0y.text" = "$1.0";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "sJB-dJ-WDl"; */
+"sJB-dJ-WDl.title" = "Home";
+
+/* Class = "UITextField"; text = "Loading..."; ObjectID = "zIi-JU-S6S"; */
+"zIi-JU-S6S.text" = "Loading...";

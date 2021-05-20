@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>773501475849-n5dvq39a7b6amhn3j8la2n065obdl470.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.773501475849-n5dvq39a7b6amhn3j8la2n065obdl470</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>773501475849-o7oe1blal4cd9dhbg47005jrh4iijfig.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD6AYpQpeXKvy26GzPeXk1J0bqmZbg22aw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>773501475849</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mobile.bcsv.org</string>
+	<key>PROJECT_ID</key>
+	<string>bridgewaymobile-93270</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bridgewaymobile-93270.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:773501475849:ios:94be390b338ea4a0fd6cd8</string>
+	<key>DATABASE_URL</key>
+	<string>https://bridgewaymobile-93270.firebaseio.com</string>
+</dict>
+</plist>
